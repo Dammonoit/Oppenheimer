@@ -32,11 +32,14 @@ Then i processed that data i.e cleaning , extracting features from it in **Twitt
 ## **About The Name Of Project.**
 Julius Robert Oppenheimer was an American theoretical physicist and professor of physics at the University of California, Berkeley who was one of the lead scientist on the Manhattan project and I decide the named of my project on him.
 
+
 ### **Bibliography.**<br/>
-**[1]  `Pandas: ` : <https://docs.djangoproject.com/en/2.0/intro/tutorial01/>**  <br/>
-**[2]  `Python 3.x` :  <https://www.python.org/>** <br/>
-**[3]  `Stackoverflow` : <https://stackoverflow.com/search?q=sentimental+analysis>.**<br />
-**[4]   `Matplotlib` :  <https://matplotlib.org/api/pyplot_summary.html>** <br/>
+**[[1]]  `Pandas: ` : <https://docs.djangoproject.com/en/2.0/intro/tutorial01/>**  <br/>
+**[[2]]  `Python 3.x` :  <https://www.python.org/>** <br/>
+
+**[[3]]  `Stackoverflow` : <https://stackoverflow.com/search?q=sentimental+analysis>.**<br />
+
+**[[4]]   `Matplotlib` :  <https://matplotlib.org/api/pyplot_summary.html>** <br/>
 **[5]   `Sentimental Analysis` :  <https://www.brandwatch.com/blog/understanding-sentiment-analysis/>** <br/>
 **[6]   `Tweepy` :  <https://tweepy.readthedocs.io/en/v3.5.0/>** <br/>
-**[6]   `Register App at Twitter` :  <https://apps.twitter.com/>** <br/>
+**[7]   `Register App at Twitter` :  <https://apps.twitter.com/>** <br/>
